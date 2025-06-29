@@ -1,7 +1,7 @@
 # Medical-chatbot-Generative-AI
 
 # How to run?
-### steps:
+### STEPS:
 
 
 Clone the repository
@@ -12,7 +12,11 @@ Clone the repository
 
 ### step 1 - Create a conda environment after opening the repository
 ```bash
-   conda create -n medibot python= 3.12 -y
+   conda create -n medibot python=3.12 -y
+```
+
+```bash
+   conda activate medibot
 ```
 
 ### step 2 - Install the requirements
