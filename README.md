@@ -17,7 +17,7 @@ This project is an AI-powered medical chatbot that allows users to ask questions
 - Simple and responsive Flask-based web app
 
 
-# How to run?
+## How to run?
 ### STEPS:
 
 
